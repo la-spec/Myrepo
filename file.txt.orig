@@ -9,10 +9,8 @@ shonit
 sharatha
 manohar prabhu
 
-HEAD
+<<<<<<< HEAD
 from second folder
+=======
 pull and push request
-
-how are you.....
-djskjfk
-dskfjksj
+>>>>>>> ea93b0afed57a1480d9ed53921527117759e5c58
